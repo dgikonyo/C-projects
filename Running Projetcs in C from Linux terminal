@@ -1,0 +1,3 @@
+gcc [programName].c -o programName
+
+./programName
